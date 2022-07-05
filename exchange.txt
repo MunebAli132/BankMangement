@@ -1,0 +1,7 @@
+1 DOLLAR(AMERICAN)           325HUF
+1 POUND                      400HUF
+1EURO                        350HUF
+1TURKISH LIRA                45HUF
+1RYAL                        80HUF
+1 PAKISTANI RUPEE            2HUF
+1 INDIAN RUPEE               4HUF
